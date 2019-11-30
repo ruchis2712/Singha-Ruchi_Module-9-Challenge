@@ -13,6 +13,8 @@ The goals of this challenge are for you to:
 - Compare your findings between the month of July and December
 - Make 2 or 3 recommendations for further analysis
 
+### The code file is: climate_analysis.ipynb
+### The data file is: hawaii.sqlite
 
 ### Analysis observations / findings
 On analyzing the data from the months of July and December, we observed that:
