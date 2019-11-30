@@ -14,8 +14,8 @@ The goals of this challenge are for you to:
 - Make 2 or 3 recommendations for further analysis
 
 
-### Analysis observations
-On analyzing the data for the months of July and December, we observed that:
+### Analysis observations / findings
+On analyzing the data from the months of July and December, we observed that:
 - December month is relatively more wet and cooler than the July month
 - Dec. max temperature is 83 degree farenheit vs 87 in July
 - Dec. min temperature is 56 degree farenheit vs 61 in July
